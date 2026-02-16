@@ -1,0 +1,4 @@
+Customer,Product_rating,Customer.id,Product_rating.cust_id
+Customer,Telemetry,Customer.id,Telemetry.cust_id
+Customer,Transaction,Customer.id,Transaction.cust_id
+Transaction,Delivery,Transaction.id,Delivery.trans_id
